@@ -1,7 +1,7 @@
 altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1652758927346/work
+--user arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1652758927346/work
 attrs==21.4.0
 backcall==0.2.0
 backports.zoneinfo==0.2.1
